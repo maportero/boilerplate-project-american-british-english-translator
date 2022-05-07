@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"b86c9644896b08557c3e63c65b6683b6","lockfileHash":"29b450bdbcb8f60f0831e6704e343d06","guessedImports":["express","body-parser","chai","cors","mocha","@babel/register","dotenv"],"guessedImportsHash":"f5643201af064e5ef9f6a2273b64fb34"}}}
